@@ -1,4 +1,4 @@
-- Hi, I'm Grant Collins. I'm currently self-learning web development.
+Learning to code.
 
 <!---
 grantcollins03/grantcollins03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
